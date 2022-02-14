@@ -16,7 +16,7 @@ MAKE_DIR			= .
 
 # Subdirectorios
 BIN_DIR    			= $(MAKE_DIR)/bin
-DOC_DIR	    		= $(MAKE_DIR)/doc
+DOC_DIR	    			= $(MAKE_DIR)/doc
 LIB_DIR 			= $(MAKE_DIR)/lib
 OBJ_DIR   			= $(MAKE_DIR)/obj
 SRC_DIR   			= $(MAKE_DIR)/src
